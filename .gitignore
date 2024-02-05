@@ -1,0 +1,11 @@
+/Bin
+meshes
+skyboxes
+**/.vs*
+**.sln
+**vcxproj.*
+*vcxproj*
+**.spv
+3dparty/Projects
+3dparty/assimp
+imgui.ini

@@ -1,0 +1,32 @@
+[submodule "3dparty/spdlog"]
+	path = 3dparty/spdlog
+	url = https://github.com/gabime/spdlog.git
+    #ignore = untracked
+[submodule "3dparty/glm"]
+	path = 3dparty/glm
+	url = https://github.com/g-truc/glm.git
+    #ignore = untracked
+[submodule "3dparty/imgui"]
+	path = 3dparty/imgui
+	url = https://github.com/ocornut/imgui.git
+    #ignore = untracked
+[submodule "3dparty/tracy"]
+	path = 3dparty/tracy
+	url = https://github.com/wolfpld/tracy.git
+    #ignore = untracked
+[submodule "3dparty/VulkanMemoryAllocator"]
+	path = 3dparty/VulkanMemoryAllocator
+	url = https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator.git
+    #ignore = untracked
+[submodule "3dparty/stb"]
+	path = 3dparty/stb
+	url = https://github.com/nothings/stb.git
+[submodule "3dparty/entt"]
+	path = 3dparty/entt
+	url = https://github.com/skypjack/entt.git
+[submodule "3dparty/ImGuizmo"]
+	path = 3dparty/ImGuizmo
+	url = https://github.com/CedricGuillemet/ImGuizmo.git
+[submodule "3dparty/meshoptimizer"]
+	path = 3dparty/meshoptimizer
+	url = https://github.com/zeux/meshoptimizer.git
